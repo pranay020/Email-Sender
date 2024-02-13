@@ -1,4 +1,4 @@
-# DeeMail
+# Email-Sender
 
 # Summary
 This application can send mails from gmail account to any one. this can also send multiple emails at a time. Through this you have to login to your gmail account. You can any logout any time.
